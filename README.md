@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Parsa Pournami and I'm a Full Stack ( Django and React ) developer, from Iran</h2>
+<h2 align="left">Hi 👋! My name is Parsa Mohammadpour nami and I'm a SoftWare Developer, from Iran</h2>
 
 ###
 
